@@ -28,3 +28,5 @@ Some pictures from the game:
 
 
 Video:
+
+https://github.com/EdT94/Final_Project_Game_Development/issues/1
