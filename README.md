@@ -27,6 +27,6 @@ Some pictures from the game:
 ![Capture5](https://user-images.githubusercontent.com/81565589/181933965-151ae609-4370-4513-991f-c2bbc41b8b90.PNG)
 
 
-Video:
 
-https://github.com/EdT94/Final_Project_Game_Development/issues/1
+[Check the gameplay video](https://github.com/EdT94/Final_Project_Game_Development/issues/1)
+
